@@ -12,6 +12,6 @@ void main() {
       HomeTwo.routeName: (_) => HomeTwo(),
       HomeThree.routeName: (_) => HomeThree(),
     },
-    initialRoute: HomeOne.routeName,
+    initialRoute: HomeTwo.routeName
   ));
 }

@@ -16,5 +16,10 @@ abstract class AppAssets {
   static const userbar_ic = "assets/images/one/user_baricon.png";
   static const yoga_ic = "assets/images/one/yoga_icon.png";
 
+  static const navigator_ic = "assets/images/two/navi.png";
+  static const chart_ic = "assets/images/two/chart_ic.png";
+  static const userpic = "assets/images/two/userpic.png";
+  static const usertrain = "assets/images/two/usertrain.png";
+  static const timer = "assets/images/two/clock_ic.png";
 
 }

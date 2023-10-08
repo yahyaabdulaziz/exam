@@ -1,4 +1,3 @@
-
 import 'dart:ui';
 
 abstract class AppColor {
@@ -7,6 +6,5 @@ abstract class AppColor {
   static const beathcolor = Color(0xffFFFAF5);
   static const relaxcolor = Color(0xffF9F5FF);
   static const yogacolor = Color(0xffF0F9FF);
-
-
+  static const barcolor = Color(0xffF8F9FC);
 }

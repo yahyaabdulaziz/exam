@@ -41,7 +41,7 @@ class _HomeState extends State<Home> {
                     ),
                     child: Icon(
                       Icons.alarm,
-                      size: 30,
+                      size: 25,
                     ),
                   )
                 ],
